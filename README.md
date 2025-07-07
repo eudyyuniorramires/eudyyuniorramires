@@ -1,16 +1,34 @@
-## Hi there 👋
+Hola, soy Eudy Yunior Lorenzo Ramirez 👋
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+Soy estudiante de Ingeniería en Software
+👨‍💻 Actualmente aprendiendo y trabajando con tecnologías como JavaScript, React, HTML, CSS, C# y SQL Server.
 
-<!--
-**eudyyuniorramires/eudyyuniorramires** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📚 Enfocado en mejorar mis habilidades en el desarrollo Frontend y Backend.
 
-Here are some ideas to get you started:
+💪🏼 Objetivo: Convertirme en Ingeniero de Software y seguir innovando con tecnología.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Dato curioso: ¡Me encanta resolver problemas técnicos y ayudar a otros a entender la tecnología!
+
+<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+Sobre mí 📖
+Aspirante a Ingeniero de Software y programador junior con experiencia en desarrollo de software y soporte técnico. Apasionado por la programación, el trabajo en equipo y la creación de soluciones dinámicas.
+
+Lenguajes y Tecnologías 🛠
+
+
+
+
+
+
+
+
+
+
+
+
+Idiomas 🌎
+Español (Nativo)
+
+Inglés (Intermedio – B1)
+
+⭐️ Última actualización: 07/07/2025
