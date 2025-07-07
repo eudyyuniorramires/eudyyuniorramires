@@ -99,8 +99,9 @@ Soy estudiante de Ingeniería en Software
 <h2 align='center'>¡Gracias por visitar mi perfil! 🚀</h2>
 
 <br>
-
-------
+<p align="center">
+      <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
 
 
 Última edición: 07/07/2025
