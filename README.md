@@ -1,5 +1,4 @@
 Hola, soy Eudy Yunior Lorenzo Ramirez 👋
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 Soy estudiante de Ingeniería en Software
 👨‍💻 Actualmente aprendiendo y trabajando con tecnologías como JavaScript, React, HTML, CSS, C# y SQL Server.
 
