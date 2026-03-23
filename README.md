@@ -6,8 +6,6 @@
   <img src="https://media.giphy.com/media/QvpqTCiEcwtvx6wwJK/giphy.gif" width="200" height="200" alt="Coding GIF">
 </p>
 
-<br>
-
 ## 👨‍💻 Sobre Mí
 
 * 🚀 Actualmente trabajando en el desarrollo de aplicaciones robustas con **C#, .NET, React y SQL Server**.
