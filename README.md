@@ -73,5 +73,5 @@
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0078D4&height=100&section=footer" alt="Footer Wave" />
 </p>
