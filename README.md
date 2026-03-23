@@ -73,6 +73,8 @@ Soy estudiante de Ingeniería en Software
 <p align="center">
 <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white">
+      
 </p>
 <br>
 
